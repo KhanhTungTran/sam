@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\Tung\\anaconda3\\envs\\cv-gpu\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "./example"
+    ],
+    "python.analysis.extraPaths": [
+        "./example"
+    ]
+}
